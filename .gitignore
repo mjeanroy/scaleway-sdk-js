@@ -18,3 +18,5 @@ coverage
 # Protobuf definition
 protobuf
 .bufcache
+
+.idea/
